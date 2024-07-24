@@ -1,6 +1,8 @@
 # DEVOPS PROJECT
+
 # Micro-Service-Application-Docker locallly setup
-Deployment of Micro Services Application Using Docker
+
+-Deployment of Micro Services Application Using Docker
 
 Step 1 : Copy vagrant file to desired folder 
 
